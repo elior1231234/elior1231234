@@ -1,4 +1,4 @@
-👋 Hi, I’m @elior1231234
+- 👋 Hi, I’m @elior1231234
 - 👀 I'm interested in learning coding either of its web development or game development.
 - 🌱 I’m currently learning c#, html css, java.
 - 💞️ I’m looking to collaborate on ...
